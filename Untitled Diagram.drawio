@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T23:15:22.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="uRx29tmjfT1TSCNXLMhr" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T23:32:46.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="dC_OrVsgYTGx6rM4Oc4p" version="13.7.5" type="github">
   <diagram id="CLQZxcMC5-kOAepzaijG" name="Page-1">
-    <mxGraphModel dx="2875" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2875" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -538,8 +538,38 @@
         <mxCell id="q8S28wrqsm7eVF6ChEKj-227" value="Producto adicional&amp;nbsp; generado al añadir una hora-hombre más" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-115" y="650" width="190" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.458;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1" source="q8S28wrqsm7eVF6ChEKj-229" target="q8S28wrqsm7eVF6ChEKj-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q8S28wrqsm7eVF6ChEKj-229" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Cuando puede producir de cada bien la economía?" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#E3F7E2;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-450" y="690" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-232" value="&lt;ul&gt;&lt;li&gt;Q&lt;sub&gt;M&lt;/sub&gt;&amp;nbsp;= Q&lt;span style=&quot;font-size: 11.6667px&quot;&gt;&lt;sub&gt;M&lt;/sub&gt;&lt;/span&gt;&amp;nbsp;(K, L&lt;sub&gt;M&lt;/sub&gt;&amp;nbsp;)&lt;/li&gt;&lt;li&gt;Q&lt;sub&gt;A&lt;/sub&gt;&amp;nbsp;= Q&lt;span style=&quot;font-size: 11.6667px&quot;&gt;&lt;sub&gt;A&lt;/sub&gt;&lt;/span&gt;&amp;nbsp;(T, L&lt;sub&gt;A&lt;/sub&gt;&amp;nbsp;)&lt;/li&gt;&lt;li&gt;Oferta de trabajo&lt;/li&gt;&lt;li&gt;Tasa de salario igual en ambos sectores&lt;/li&gt;&lt;li&gt;Competencia perfecta&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; Libre movilidad de factores&lt;/li&gt;&lt;/ul&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#E3F7E2;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="770" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-234" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Times New Roman;fontSize=13;align=center;fillColor=#8CAD80;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="795" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-236" value="&lt;b style=&quot;color: rgb(0, 0, 0); font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: &amp;quot;strawberry blossom&amp;quot;; font-size: 25px;&quot;&gt;Efectos del comercio&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Times New Roman;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="800" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-237" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Times New Roman;fontSize=13;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="795" width="145" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-238" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Times New Roman;fontSize=13;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="792.5" width="145" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-239" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Times New Roman;fontSize=13;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="792.5" width="145" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-240" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Times New Roman;fontSize=13;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-92.5" y="790" width="145" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-241" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Times New Roman;fontSize=13;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="795" width="145" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-242" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Times New Roman;fontSize=13;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-92.5" y="792.5" width="145" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
