@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T07:32:21.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="X5mAOHR8BwohK0y5mWgi" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T07:43:56.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="OtzZ62E8ytq96M9X5ivP" version="13.7.5" type="github">
   <diagram id="CLQZxcMC5-kOAepzaijG" name="Page-1">
-    <mxGraphModel dx="3137" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2203" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -382,8 +382,8 @@
         <mxCell id="q8S28wrqsm7eVF6ChEKj-178" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Qué bien producirá quien?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="-1310" y="875" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q8S28wrqsm7eVF6ChEKj-179" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Solo un factor de de producción por país&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1290" y="795" width="170" height="20" as="geometry" />
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-179" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Factor productivo (trabajo)&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="795" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q8S28wrqsm7eVF6ChEKj-184" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -392,6 +392,11 @@
             <Array as="points">
               <mxPoint x="-1210" y="910" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-189" value="Dependerá de" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="q8S28wrqsm7eVF6ChEKj-184">
+          <mxGeometry x="-0.3646" y="-5" relative="1" as="geometry">
+            <mxPoint x="13.13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8S28wrqsm7eVF6ChEKj-185" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#E3F7E2;fontFamily=Times New Roman;fontSize=13;strokeColor=none;" vertex="1" parent="1">
@@ -405,6 +410,21 @@
         </mxCell>
         <mxCell id="q8S28wrqsm7eVF6ChEKj-188" value="Salarios relativos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1155" y="980" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-190" value="" style="endArrow=classic;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="q8S28wrqsm7eVF6ChEKj-178">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-850" y="840" as="sourcePoint" />
+            <mxPoint x="-960" y="885" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1090" y="885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-191" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=14;align=center;fillColor=#EAFFE9;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="860" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8S28wrqsm7eVF6ChEKj-192" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;b&gt;&lt;i&gt;La economía se especializará en la producción del bien A si el precio relativo del bien A es mayor que su coste de oportunidad; y se especializará en la producción del bien B si el precio relativo del bien A es menor que su coste de oportunidad&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="887.5" width="250" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
